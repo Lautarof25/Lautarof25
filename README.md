@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fernandez.lautaro25@gmail.com**
 
-- 📄 Know about my experiences [https://resume-2pc.pages.dev/](https://resume-2pc.pages.dev/)
+- 📄 Know about my experiences [https://lautarof25.github.io/cv_online/](https://lautarof25.github.io/cv_online/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
