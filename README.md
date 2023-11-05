@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lautadev&label=Profile%20views&color=0e75b6&style=flat" alt="lautadev" /> </p>
 
-- 🔭 I’m currently working on [Guess The number](https://github.com/Lautarof25/guessTheNumber)
+- 🔭 I’m currently working on [Portfolio](https://github.com/Lautarof25/Portfolio)
 
-- 🌱 I’m currently learning **JavaScript, Java, Spring, tailwind**
+- 🌱 I’m currently learning **JavaScript,React, Java, Spring, tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lautarof25?tab=repositories](https://github.com/Lautarof25?tab=repositories)
 
