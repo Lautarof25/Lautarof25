@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lautadev&label=Profile%20views&color=0e75b6&style=flat" alt="lautadev" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Lautarof25/Portfolio)
+- 🔭 I’m currently working on [Vinoteca](https://github.com/Lautarof25/Vinoteca)
 
 - 🌱 I’m currently learning **JavaScript,React, Java, Spring, tailwind**
 
